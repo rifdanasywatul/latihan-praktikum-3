@@ -1,0 +1,37 @@
+name: praktik_week6
+description: "A new Flutter project."
+publish_to: 'none'
+version: 0.1.0
+
+environment:
+  sdk: '>=3.3.0 <4.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^3.0.0
+
+flutter:
+  uses-material-design: true
+  assets:
+    - assets/checkin.jpg
+    - assets/gocar.jpg
+    - assets/gofood.jpg
+    - assets/gomart.jpg
+    - assets/gopulsa.jpg
+    - assets/goride.jpg
+    - assets/gosend.jpg
+    - assets/ppupn.jpg
+    - assets/cover.jpg
+    - assets/ehac.jpg
+    - assets/hp.jpg
+    - assets/koper.jpg
+    - assets/result.jpg
+    - assets/rs.jpg
+    - assets/scan.jpg
+    - assets/stetoskop.jpg
+    - assets/vaccine.jpg
